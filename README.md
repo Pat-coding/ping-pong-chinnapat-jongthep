@@ -4,7 +4,8 @@ A simple return function with spring boot
 
 # Instruction
 ---
-Launch the main app and type 'localhost:8080/ping' where it will return pong
+1. Launch the server in "ping-pong-chinnapat-jongthep/src/main/java/com/test/pingpongchinnapatjongthep/PingPongChinnapatJongthepApplication.java"
+2. Type 'localhost:8080/ping' in browser
 
 # Requirements
 ---
