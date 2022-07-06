@@ -13,4 +13,4 @@ Launch the main app and type 'localhost:8080/ping' where it will return pong
 
 # Dependencies
 ---
-Sping Web
+* Sping Web
